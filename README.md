@@ -15,7 +15,7 @@ This repository contains:
 * Cashew land cover maps obtained with ML model predictions.
 * Some code and scripts implemented for the preprocessing and ML tasks.
 
-These deliverables are intended for open access. __Everyone is free to use the aforementioned resources, with the proper citation of the resources' origin.__
+These deliverables are intended for open access. Everyone is free to use the aforementioned resources, __as long as this work and the resources' origin are properly cited__.
 
 ## Programming requirements
 
