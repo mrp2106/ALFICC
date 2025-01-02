@@ -30,8 +30,6 @@ The scripts have been developed using __JavaScript__ (in Google Earth Engine's c
   * rioxarray
 ____
 
-Author: Miguel Ribeiro Pereira, MSc, Faculty of Sciences, University of Porto
-
-Supervisors: João Pedro Pedroso, INESC TEC, Faculty of Sciences, University of Porto
-
-Co-Supervisor: Sofia Cardoso Pereira, PhD, Faculty of Engineering, University of Porto
+* Author: Miguel Ribeiro Pereira, MSc, Faculty of Sciences, University of Porto
+* Supervisors: João Pedro Pedroso, INESC TEC, Faculty of Sciences, University of Porto
+* Co-Supervisor: Sofia Cardoso Pereira, PhD, Faculty of Engineering, University of Porto
