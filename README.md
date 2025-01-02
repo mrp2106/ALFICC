@@ -1,4 +1,4 @@
-# ALFICC - Active Learning for Improved Cashew Classification
+# ALFICC - Active Learning For Improved land Cover Classification
 
 This GitHub contains some deliverables that resulted from my Master's dissertation project. The goal was to use _Sentinel-2 Surface Reflectance_ geospatial data in order to identify cashew orchards with Machine Learning (ML) tools across a region of interest (ROI) comprised of two parts: the country of Guinea-Bissau, and the neighboring region of the Republic of Guinea up to the _Kogon_ river.
 
