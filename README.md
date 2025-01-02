@@ -2,7 +2,7 @@
 
 This GitHub contains some deliverables that resulted from my Master's dissertation project. The goal was to use _Sentinel-2 Surface Reflectance_ geospatial data in order to identify cashew orchards across a region of interest comprised of two parts: the country of Guinea-Bissau, and the neighboring region of the Republic of Guinea up to the _Kogon_ river.
 
-The full Master's thesis can be found [here](#https://hdl.handle.net/10216/164196)
+The full Master's thesis can be found in the [UPorto open repository](https://hdl.handle.net/10216/164196)
 
 ## The goals
 
