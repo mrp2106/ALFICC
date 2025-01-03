@@ -4,7 +4,7 @@ This GitHub contains some deliverables that resulted from my Master's dissertati
 
 Active Learning techniques were employed to develop an optimized training dataset from samples scattered across the ROI. This led to the creation of two newly labeled datasets, namely:
 * __Random Sampling dataset:__ corresponds to $4498$ samples randomly selected in the ROI.
-* __Margin Sampling dataset:__ $1406$ points selected by the margin sampling heuristic. This dataset shows a smaller geographical distribution and sample diversity than the Random Sampling one, but demonstrated its usefulness for ML purposes.
+* __Margin Sampling dataset:__ $1816$ points selected by the margin sampling heuristic. This dataset shows a smaller geographical distribution and sample diversity than the Random Sampling one, but demonstrated its usefulness for ML purposes.
 
 The labels were acquired for the year of 2021. For more details about the project, the data and application, the full dissertation can be found in the [UPorto open repository](https://hdl.handle.net/10216/164196)
 
