@@ -12,8 +12,6 @@ The goal was to use _Sentinel-2 Surface Reflectance_ geospatial data in order to
   <img src="Images/roi_image.png" alt="drawing" width="600"/>
 </p>
 
-![roi_image](Images/roi_image.png)
-
 The labels were acquired for the year of 2021. For more details about the project, the data and application, the full dissertation can be found in the [UPorto open repository](https://hdl.handle.net/10216/164196)
 
 ## Contents
