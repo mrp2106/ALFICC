@@ -20,11 +20,13 @@ The contents shared in this repository regard the following:
 
 ## Datasets
 
-Two datasets of labeled pixels scattered across the ROI were created. Namely:
+Two new datasets of labeled pixels scattered across the ROI were created during the project's execution. Namely:
 * __Random Sampling dataset:__ corresponds to $4498$ samples randomly selected in the ROI.
 * __Margin Sampling dataset:__ $1816$ points selected by the margin sampling heuristic. This dataset shows a smaller geographical distribution and sample diversity than the Random Sampling one, but demonstrated its usefulness for ML purposes.
 
+The labeling process included eight different classes, from 1 to 8: Closed Forest, Open Forest, Mangrove, Savanna (sparse vegetation), Cashew, Non-Forest, Water, and Non-Cashew. We note that class 8 - Non-Cashew contains pixels that are evidently not cashew orchards, but either contain a mixture of the other six classes (for example, Savanna and Non-Forest), or correspond to samples that could not be classified as any of the aforementioned categories. Therefore, class 8 samples are very useful for a binary classification setting: when trying to simply distinguish between cashew and non-cashew classes, they can be part of a broader Non-Cashew class, which also includes Forest, Mangrove, and so on. However, in other scenarios, these samples should be discarded from further consideration.
 
+The .csv files include information about the pixels' coordinates __in the EPSG:4326 projection__ and category following the aforementioned system. The pixels were acquired in $3 \times 3$ polygons or patches, with each patch being assigned a different number, which is represented in column _polygonID_ - this can be important to analyze spatial distribution and correlation of the acquired samples. Besides these, the first __67__ columns of _randomsampling.csv_ and _marginsampling.csv_ regard the training features that were considered for ML tasks. They correspond to a subset of a group of features formed by the spectral bands directly obtained from Sentinel-2 measurements, spatial features obtained with the GLCM method, and temporal CCDC coefficients. 
 
 ## Programming requirements
 
