@@ -8,6 +8,8 @@ The goal was to use _Sentinel-2 Surface Reflectance_ geospatial data in order to
 * __Random Sampling dataset:__ corresponds to $4498$ samples randomly selected in the ROI.
 * __Margin Sampling dataset:__ $1816$ points selected by the margin sampling heuristic. This dataset shows a smaller geographical distribution and sample diversity than the Random Sampling one, but demonstrated its usefulness for ML purposes.
 
+![roi_image](Images/roi_image.png)
+
 The labels were acquired for the year of 2021. For more details about the project, the data and application, the full dissertation can be found in the [UPorto open repository](https://hdl.handle.net/10216/164196)
 
 ## Contents
