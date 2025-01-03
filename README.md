@@ -4,9 +4,7 @@ This repository is intended to share some results and materials from my Master's
 
 ## __Introduction__
 
-The goal was to use _Sentinel-2 Surface Reflectance_ geospatial data in order to identify cashew orchards with Machine Learning (ML) tools across a region of interest (ROI) comprised of two parts: the country of Guinea-Bissau, and the neighboring region of the Republic of Guinea up to the _Kogon_ river. Active Learning techniques were employed to develop an optimized training dataset from samples scattered across the ROI. This led to the creation of two newly labeled datasets, namely:
-* __Random Sampling dataset:__ corresponds to $4498$ samples randomly selected in the ROI.
-* __Margin Sampling dataset:__ $1816$ points selected by the margin sampling heuristic. This dataset shows a smaller geographical distribution and sample diversity than the Random Sampling one, but demonstrated its usefulness for ML purposes.
+The goal was to use _Sentinel-2 Surface Reflectance_ geospatial data in order to identify cashew orchards with Machine Learning (ML) tools across a region of interest (ROI) comprised of two parts: the country of Guinea-Bissau, and the neighboring region of the Republic of Guinea up to the _Kogon_ river. Active Learning techniques were employed to develop an optimized training dataset from samples scattered across the ROI.
 
 <p align="center">
   <img src="Images/roi_image.png" alt="drawing" width="600"/>
@@ -19,6 +17,14 @@ The labels were acquired for the year of 2021. For more details about the projec
 The contents shared in this repository regard the following:
 * The two datasets of labeled samples that were created during the project's execution.
 * Cashew land cover maps obtained with ML model predictions.
+
+## Datasets
+
+Two datasets of labeled pixels scattered across the ROI were created. Namely:
+* __Random Sampling dataset:__ corresponds to $4498$ samples randomly selected in the ROI.
+* __Margin Sampling dataset:__ $1816$ points selected by the margin sampling heuristic. This dataset shows a smaller geographical distribution and sample diversity than the Random Sampling one, but demonstrated its usefulness for ML purposes.
+
+
 
 ## Programming requirements
 
