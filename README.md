@@ -49,10 +49,10 @@ Scripts have been developed using __JavaScript__ (in Google Earth Engine's code 
   * rioxarray
 ____
 
+## Reference:
+
+Pereira, M. (2024). Active Learning for Improved Landcover Classification [Master's thesis, Faculty of Sciences - University of Porto]. Repositório Aberto UPorto. https://hdl.handle.net/10216/164196
+
 * Author: Miguel Ribeiro Pereira, MSc, Faculty of Sciences, University of Porto, Portugal
 * Supervisors: João Pedro Pedroso, CMUP - University of Porto, Portugal
 * Co-Supervisor: Sofia Cardoso Pereira, PhD, INESC TEC and Faculty of Engineering - University of Porto, Portugal
-
-Reference:
-
-Pereira, M. (2024). Active Learning for Improved Landcover Classification [Master's thesis, Faculty of Sciences - University of Porto]. Repositório Aberto UPorto. https://hdl.handle.net/10216/164196
